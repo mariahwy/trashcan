@@ -26,5 +26,3 @@ This trash can recognizes trash, opens the lid, and moves with motion recognitio
 	5-5) ESC 키가 눌리면 루프 종료
   
 https://github.com/mariahwy/trashcan/assets/124486478/efd03482-5acd-48c0-8d91-3d25bf4eecec
-
-ㅋㅋㅋ엉성...
